@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yashraj009
-- 👀 I’m interested in software development,web development and in coding.
+- 👋 Hi, I’m @Yashraj
+- 👀 I’m interested in software development, web development and in coding.
 - 🌱 I’m currently learning Data Structures, Javascript and DBMS
 - 📫 How to reach me?--> Mail_ID:sorathiyayash1231@gmail.com
 
